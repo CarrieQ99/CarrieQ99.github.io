@@ -1,0 +1,38 @@
+header{
+    margin-bottom: 10px;
+    position: relative;
+    left:20px
+}
+main{
+    padding-top:20px ;
+    line-height: 30px;
+    padding-bottom:20px ;
+    
+}
+#nav{
+    border-color: black;
+    border-width: 100px;
+}
+a{
+    padding-left: 20px;
+}
+a:hover{
+    background-color: bisque;
+}
+
+a:active{
+    color:azure
+}
+img{
+    border-style: dashed;
+    border-color: black;
+    border: 30px;
+}
+footer{
+    margin-bottom: 20px;
+}
+
+#intro{
+    border-style: dashed;
+    border-width: 10px;
+}
